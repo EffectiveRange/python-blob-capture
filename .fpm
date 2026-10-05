@@ -7,3 +7,4 @@
 --python-package-name-prefix python3
 --python-disable-dependency opencv-python-headless
 --depends python3-opencv
+--depends 'python3-common-utility (>= 1.8.0)'
