@@ -9,10 +9,6 @@
       "hostinstall": true
     },
     {
-      "name": "python3-pil",
-      "hostinstall": true
-    },
-    {
       "name": "python3-context-logger (>=1.3.2)",
       "hostinstall": true
     }
