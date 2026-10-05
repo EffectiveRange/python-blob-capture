@@ -11,7 +11,7 @@ from unittest.mock import MagicMock, patch
 
 import cv2
 
-from blob_capture.capture import (
+from blob_capture import (
     MAGIC,
     SUPERBLOCK_FORMAT,
     SUPERBLOCK_SIZE,
