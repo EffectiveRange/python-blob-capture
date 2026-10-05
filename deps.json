@@ -1,0 +1,16 @@
+{
+  "deps": [
+    {
+      "name": "python3-opencv",
+      "hostinstall": true
+    },
+    {
+      "name": "python3-numpy",
+      "hostinstall": true
+    },
+    {
+      "name": "python3-context-logger (>=1.3.2)",
+      "hostinstall": true
+    }
+  ]
+}
