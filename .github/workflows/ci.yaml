@@ -15,8 +15,6 @@ on:
 jobs:
   call_ci:
     uses: EffectiveRange/ci-workflows/.github/workflows/python-ci.yaml@latest-python
-    secrets:
-      access-token: ${{secrets.ACTIONS_RO_TOKEN}}
     with:
       test-overlay: "vision"
       package-overlay: "vision"
